@@ -1,4 +1,6 @@
 {
   "circulationAmount": 20,
-  "reservesAmount": 20
+  "reservesAmount": 20,
+  "date": "22-02-2024",
+  "reportButtonText": "February 2024 Report*"
 }
