@@ -2,6 +2,15 @@
   "circulationAmount": 20,
   "reservesAmount": 20,
   "date": "22-02-2024",
-  "reportButtonText": "February 2024 Report*",
-  "reportButtonTip": "* First February attestation will be available shortly."
+  "reports": [
+    {
+      "year": "2024",
+      "reports": [
+        {
+          "month": "Feb",
+          "fileUrl": "xxxxxx"
+        }
+      ]
+    }
+  ]
 }
