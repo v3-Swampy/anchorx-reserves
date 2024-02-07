@@ -8,7 +8,7 @@
       "reports": [
         {
           "month": "Feb",
-          "fileUrl": "https://github.com/v3-Swampy/anchorx-reserves/blob/main/data.json"
+          "fileUrl": "https://raw.githubusercontent.com/v3-Swampy/anchorx-reserves/main/data.json"
         },
         {
           "month": "Feb",
