@@ -4,8 +4,8 @@ anchorx official website data
 # data example
 ```
 {
-  "circulationAmount": 20, // AxCNH in circulation
-  "reservesAmount": 20, // AxCNH reserves
+  "circulationAmount": "20.0", // AxCNH in circulation, unit is [M]
+  "reservesAmount": "20.0", // AxCNH reserves, unit is [M]
   "date": "22-02-2024", // date of data
   "reports": [ // year reports
     {
