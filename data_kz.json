@@ -1,0 +1,11 @@
+{
+  "circulationAmount": "20.0",
+  "reservesAmount": "20.0",
+  "date": "16-07-2025",
+  "reports": [
+    {
+      "year": 2025,
+      "reports": []
+    }
+  ]
+}
