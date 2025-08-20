@@ -1,6 +1,11 @@
 # anchorx-reserves
 anchorx official website data
 
+# data file
+1. data.json —— the data in this file is for the Transparency tab on the official website
+
+2. data_kz.json —— the data in this file is for the AnchorX.KZ tab on the official website
+
 # data example
 ```
 {
