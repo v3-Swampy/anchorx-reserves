@@ -7,11 +7,11 @@
       "year": 2026,
       "reports": [
         {
-          "month": "Mar",
+          "Quater": "Q1",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQDsQPrkz6pSQKosaQScWgi2ASSKNc8QvMXsH2JkjPICcuI?e=XeUFWN"
         },
         {
-         "month": "Jun",
+         "Quater": "Q2",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQCIICwRyIxqTYlcEFCq_xhaARpGXEQU5c1pBNN5NowZ0HA?e=9k7D0I"
         }
       ]
@@ -20,7 +20,7 @@
       "year": 2025,
       "reports": [
         {
-          "month": "Dec",
+          "Quater": "Q4",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQDduCl_BOBuRpPrNCYky2sHATwyNhM5KInyifqI3_7ETLk?e=INWnhy"
         },
       ]
