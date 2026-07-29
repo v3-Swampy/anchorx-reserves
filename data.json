@@ -5,7 +5,7 @@
   "reports": [
     {
       "year": 2026,
-      "month": [
+      "reports": [
         {
           "month": "Mar",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQDsQPrkz6pSQKosaQScWgi2ASSKNc8QvMXsH2JkjPICcuI?e=XeUFWN"
@@ -18,7 +18,7 @@
     },
     {
       "year": 2025,
-      "month": [
+      "reports": [
         {
           "month": "Dec",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQDduCl_BOBuRpPrNCYky2sHATwyNhM5KInyifqI3_7ETLk?e=INWnhy"
