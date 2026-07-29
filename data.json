@@ -1,28 +1,28 @@
 {
-  "circulationAmount": "39.13",
-  "reservesAmount": "39.13",
-  "date": "24-04-2026",
+  "circulationAmount": 39.13,
+  "reservesAmount": 39.13,
+  "date": "2026-04-24",
   "reports": [
     {
       "year": 2026,
-      "reports": [
+      "quarters": [
         {
-          "Quarter": "Q1",
+          "quarter": "Q1",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQDsQPrkz6pSQKosaQScWgi2ASSKNc8QvMXsH2JkjPICcuI?e=XeUFWN"
         },
         {
-         "Quarter": "Q2",
+          "quarter": "Q2",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQCIICwRyIxqTYlcEFCq_xhaARpGXEQU5c1pBNN5NowZ0HA?e=9k7D0I"
         }
       ]
     },
     {
       "year": 2025,
-      "reports": [
+      "quarters": [
         {
-          "Quarter": "Q4",
+          "quarter": "Q4",
           "fileUrl": "https://anchorx-my.sharepoint.com/:b:/g/personal/sophiepu_anchorx_org/IQDduCl_BOBuRpPrNCYky2sHATwyNhM5KInyifqI3_7ETLk?e=INWnhy"
-        },
+        }
       ]
     }
   ]
